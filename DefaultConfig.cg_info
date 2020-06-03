@@ -1,0 +1,241 @@
+I-Logix-RPY-Archive version 8.15.0 * 202002261110
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 44;
+	- value = "DefaultComponent\\DefaultConfig\\AddDepartmentForm.cpp" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\AddDepartmentForm.h" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\AddProductForm.cpp" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\AddProductForm.h" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\ButtonAdd.cpp" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\ButtonAdd.h" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\ButtonCreate.cpp" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\ButtonCreate.h" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\ButtonDelete.cpp" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\ButtonDelete.h" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\ButtonEdit.cpp" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\ButtonEdit.h" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\CreateOrderForm.cpp" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\CreateOrderForm.h" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\Delete.cpp" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\Delete.h" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\DeleteDepartmentForm.cpp" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\DeleteDepartmentForm.h" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\DeleteOrderForm.cpp" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\DeleteOrderForm.h" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\DeleteProductForm.cpp" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\DeleteProductForm.h" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\DepartmentForm.cpp" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\DepartmentForm.h" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\EditDepartmentForm.cpp" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\EditDepartmentForm.h" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\EditProductForm.cpp" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\EditProductForm.h" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\MainForm.cpp" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\MainForm.h" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\OrdersForm.cpp" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\OrdersForm.h" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\ProductForm.cpp" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\ProductForm.h" 6.3.2020::14:3:19
+	"DefaultComponent\\DefaultConfig\\PurchasingManager.cpp" 6.3.2020::14:3:21
+	"DefaultComponent\\DefaultConfig\\PurchasingManager.h" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\ReportsForm.cpp" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\ReportsForm.h" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\TableProducts.cpp" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\TableProducts.h" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\class_30.cpp" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\class_30.h" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\class_31.cpp" 6.3.2020::14:3:20
+	"DefaultComponent\\DefaultConfig\\class_31.h" 6.3.2020::14:3:20
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 1580947f-1ba2-4545-bfc0-42e37118a5c4" "GUID f4924eec-5726-492f-851a-94a020882a7b"
+	"GUID 55727a89-85c4-4205-9c38-717a82648d1c" "GUID f4924eec-5726-492f-851a-94a020882a7b"
+	
+}
+- size = 23;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "class_31";
+	- _id = GUID 1165b656-6cdd-4873-8efc-b85a43587a7c;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "PurchasingManager";
+	- _id = GUID 20072f03-29f6-453b-82c3-d3b553c5b4eb;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "ButtonAdd";
+	- _id = GUID d483c7e1-9848-4b5e-ae51-298608ee5fef;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "ButtonEdit";
+	- _id = GUID 65591ed6-fbc9-4838-915a-e484d25864ec;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "CreateOrderForm";
+	- _id = GUID 7d612e77-a650-4b10-84d6-e44cff24f1a6;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "AddDepartmentForm";
+	- _id = GUID 2723e981-359f-4845-bd13-7fce9df8f168;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "ButtonCreate";
+	- _id = GUID c60a8453-80f7-4fce-8ef3-10a6c50daaa8;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "DeleteOrderForm";
+	- _id = GUID 12a2931e-f34d-4e39-b8ca-8e83ffca289d;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "ReportsForm";
+	- _id = GUID a00cb1e6-661a-48ff-9b5f-b7d5c50f3c3a;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Delete";
+	- _id = GUID 2705a308-f1b2-40b9-b6a0-b4e66338f600;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "ButtonDelete";
+	- _id = GUID dc6d1cb6-a27f-4859-8c9c-fb3f14b2b97b;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "EditDepartmentForm";
+	- _id = GUID d9f3d40d-9207-4c97-ac5b-61eb44381115;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "OrdersForm";
+	- _id = GUID 2d986e78-8cfd-42da-a08e-1bde75b4b3c6;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "DeleteProductForm";
+	- _id = GUID 9fd91333-1ccf-4e63-8968-420fabde99bf;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "MainForm";
+	- _id = GUID 887ec25a-b6ec-4ff1-b51a-edd1cede86b0;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "DepartmentForm";
+	- _id = GUID 76d85acc-3cd7-4ff6-9b29-1067341649fc;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "EditProductForm";
+	- _id = GUID 1d749a27-fee5-4444-a4e4-43322427a185;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "class_30";
+	- _id = GUID 05371362-9dd4-418c-b167-3a432551cf1a;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "ProductForm";
+	- _id = GUID 4eb03ba2-8d24-4936-b340-10519a5fdffb;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "DeleteDepartmentForm";
+	- _id = GUID cc0de6b6-c3a7-41b2-aa65-47ce3311183a;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "TableProducts";
+	- _id = GUID bd32b2b1-4f76-44bb-b3f8-e45af5046548;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\Purchase_rpy\\DefaultComponent.cmpx";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID e26670a1-c7dc-4667-bdc7-46023294441f;
+}
+- genTime = 6.3.2020::14:3:21;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Purchase_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "AddProductForm";
+	- _id = GUID 08441014-e00e-48a0-8d19-c14c9cf82a54;
+}
+- genTime = 6.3.2020::14:3:21;
+
